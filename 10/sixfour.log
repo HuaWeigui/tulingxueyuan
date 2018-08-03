@@ -1,0 +1,10 @@
+2018-08-02 18:14:00,147=====DEBUG++++++++This is a debug log.
+2018-08-02 18:14:00,147=====INFO++++++++this is info log.
+2018-08-02 18:14:00,148=====WARNING++++++++this is a warning log.
+2018-08-02 18:14:00,148=====ERROR++++++++this is a error log.
+2018-08-02 18:14:00,148=====CRITICAL++++++++this is a critical log.
+2018-08-02 18:14:27,915=====DEBUG++++++++This is a debug log.
+2018-08-02 18:14:27,916=====INFO++++++++this is info log.
+2018-08-02 18:14:27,917=====WARNING++++++++this is a warning log.
+2018-08-02 18:14:27,917=====ERROR++++++++this is a error log.
+2018-08-02 18:14:27,930=====CRITICAL++++++++this is a critical log.
